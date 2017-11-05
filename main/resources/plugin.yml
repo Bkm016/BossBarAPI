@@ -1,0 +1,6 @@
+name: BossBarAPI
+main: org.inventivetalent.bossbar.BossBarPlugin
+author: [inventivetalent, Bkm016]
+version: 2.4.2 - SkyEdition
+
+loadbefore: [BarAPI]
